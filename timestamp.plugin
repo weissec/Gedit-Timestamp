@@ -1,0 +1,10 @@
+# This file needs to be placed in ~/.local/share/gedit/plugins/
+
+[Plugin]
+Loader=python3
+Module=timestamp
+IAge=3
+Name=Timestamp
+Description=A simple plugin to quickly insert current date and time at cursor location.
+Authors= W3155
+Copyright=2018
