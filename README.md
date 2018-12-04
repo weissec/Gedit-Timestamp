@@ -36,6 +36,6 @@ Keyboard Key:
 
 Why?
 --------------------------
-Let's start by saying that Gedit is not a recommended editor for writing manual logs.
+Let's start by saying that Gedit is not the best editor for writing manual logs and notes.
 However it comes as standard in various distros and is customisable, simple to use and clean.
 Adding timestamps can be a necessity when writing log files and having the option to add date and time quickly and with a single key press ease and speed up the process.
