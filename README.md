@@ -19,7 +19,7 @@ How to install:
 Custom Settings:
 --------------------------
 
-Note: GUI settings for the plugin are not yet implemented and currently under development.
+Note: GUI settings for the plugin are not implemented. See below for manual settings.
 
 Manual Settings:
 --------------------------
